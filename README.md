@@ -2,7 +2,6 @@
 
 A curated list of articles, books, MOOCs, infographics and many more covering Artificial Intelligence, Machine Learning and Deep Learning.
 
-Updated as and when I encounter something really interesting...
 
 ## Beginners - Getting Started
 
@@ -11,6 +10,7 @@ Updated as and when I encounter something really interesting...
 - [An introduction to Artificial Intelligence](https://hackernoon.com/understanding-understanding-an-intro-to-artificial-intelligence-be76c5ec4d2e)
 - [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
 - [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions)
+- [The Journey of a Machine Learning model from Building to Retraining](https://towardsdatascience.com/the-journey-of-a-machine-learning-model-from-building-to-retraining-fe3a37c32307?gi=38d2b73db825)
 
 ### MOOCs
 - [Introduction to Artificial Intelligence by Microsoft on edx](https://www.edx.org/course/introduction-to-artificial-intelligence-ai)
@@ -52,3 +52,5 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 *Source: CallaghanInnovation*
 - [AI Timeline](infographics/AI-Timeline.jpg) *Source: Apttus*
 - [AI detailed Timeline](infographics/Artificial-Intelligence-AI-Timeline-Infographic.jpeg) *Source: Digital Intelligence Today*
+
+*If you see a broken link, open an issue.*
