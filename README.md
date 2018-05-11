@@ -27,6 +27,7 @@ A curated list of articles, books, MOOCs, infographics and many more covering Ar
 Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzone.com/guides/artificial-intelligence-machine-learning-and-predi)
 - [What is Machine Learning?](https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/i/88174_92991v00_machine_learning_section1_ebook.pdf)
 - [Introducing Deep Learning with MATLAB](https://es.mathworks.com/content/dam/mathworks/tag-team/Objects/d/80879v00_Deep_Learning_ebook.pdf)
+- [Introduction to Tensorflow](https://dzone.com/refcardz/introduction-to-tensorflow?chapter=1)
 
 ### Cheatsheets
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
@@ -45,6 +46,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 ## Interesting reads
 
 - [Should We Worry About Artificial Intelligence (AI)?](https://www.codingdojo.com/blog/dark-side-of-artificial-intelligence-ai/)
+- [The future of AI: IS YOUR JOB UNDER THREAT? - *Businessleader*](https://www.businessleader.co.uk/the-future-of-artificial-intelligence-is-your-job-under-threat/44959/)
 
 ## Infographics
 
@@ -53,4 +55,6 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [AI Timeline](infographics/AI-Timeline.jpg) *Source: Apttus*
 - [AI detailed Timeline](infographics/Artificial-Intelligence-AI-Timeline-Infographic.jpeg) *Source: Digital Intelligence Today*
 
-*If you see a broken link, open an issue.*
+*If you see a broken link, open an [issue](https://github.com/VidyasagarMSC/Awesome-AI/issues/new).*
+
+#### Fork this repo, add more content and a PR to merge
