@@ -2,7 +2,6 @@
 
 A curated list of articles, books, MOOCs, infographics and many more covering Artificial Intelligence, Machine Learning and Deep Learning.
 
-
 ## Beginners - Getting Started
 
 ### Articles
@@ -54,6 +53,16 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 *Source: CallaghanInnovation*
 - [AI Timeline](infographics/AI-Timeline.jpg) *Source: Apttus*
 - [AI detailed Timeline](infographics/Artificial-Intelligence-AI-Timeline-Infographic.jpeg) *Source: Digital Intelligence Today*
+
+## Opensource Libraries and Tools
+
+- [Gym](https://gym.openai.com) - Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
+- [TensorFlow](https://www.tensorflow.org) - An open source machine learning framework for everyone
+
+## Interactive Tutorials
+
+- [Seedbank](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples 
+- [R2D3](http://www.r2d3.us) - A visual introduction to machine learning
 
 *If you see a broken link, open an [issue](https://github.com/VidyasagarMSC/Awesome-AI/issues/new).*
 
