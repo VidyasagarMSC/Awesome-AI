@@ -1,6 +1,6 @@
 # Awesome-AI
 
-A curated list of articles, books, MOOCs, infographics and many more covering Artificial Intelligence, Machine Learning and Deep Learning.
+A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence, Machine Learning and Deep Learning.
 
 ## Beginners - Getting Started
 
@@ -11,9 +11,10 @@ A curated list of articles, books, MOOCs, infographics and many more covering Ar
 - [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions)
 - [The Journey of a Machine Learning model from Building to Retraining](https://towardsdatascience.com/the-journey-of-a-machine-learning-model-from-building-to-retraining-fe3a37c32307?gi=38d2b73db825)
 
-### MOOCs
+### Courses
 - [Introduction to Artificial Intelligence by Microsoft on edx](https://www.edx.org/course/introduction-to-artificial-intelligence-ai)
 - [Introduction to Machine Learning crash course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Foundations of Machine Learning(foml) by Bloomberg](https://www.techatbloomberg.com/foml)
 
 ### Books
 
@@ -33,8 +34,11 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [The machine learning algorithm cheat sheet - sas.com](cheatsheets/machinelearning/machine-learning-cheat-sheet-sas.png)
 - [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
+### Presentations 
+- [Deep Learning - The Past, Present and Future of Artificial Intelligence](https://www.slideshare.net/LuMa921/deep-learning-the-past-present-and-future-of-artificial-intelligence)
+
 ## Advanced AI
-### MOOCs
+### Courses
 - [Deeplearning.ai | Coursera by Andrew Ng](https://www.deeplearning.ai) - *5 courses*
 - [Machine Learning | Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
