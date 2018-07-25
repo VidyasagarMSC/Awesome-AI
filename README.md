@@ -24,6 +24,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 ### Quick guides
 
+- [Introductory Guide to Artificial Intelligence](https://towardsdatascience.com/introductory-guide-to-artificial-intelligence-11fc04cea042)
 - [DZone's Guide to
 Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzone.com/guides/artificial-intelligence-machine-learning-and-predi)
 - [What is Machine Learning?](https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/i/88174_92991v00_machine_learning_section1_ebook.pdf)
@@ -42,6 +43,9 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 ### Courses
 - [Deeplearning.ai | Coursera by Andrew Ng](https://www.deeplearning.ai) - *5 courses*
 - [Machine Learning | Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [fast.ai](http://www.fast.ai) courses
+    - Deep Learning Part 1: [Practical Deep Learning for Coders](http://course.fast.ai/lessons/lessons.html)
+    - Deep Learning Part 2: [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html)
 
 ### Books
 - [Deep Learning, An MIT Press book](http://www.deeplearningbook.org)
