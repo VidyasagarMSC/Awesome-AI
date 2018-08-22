@@ -35,6 +35,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [The machine learning algorithm cheat sheet - sas.com](cheatsheets/machinelearning/machine-learning-cheat-sheet-sas.png)
 - [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- Stanford Cs 229:
+  - Deep Learning: http://stanford.io/2BsQ91Q  
+  - Supervised Learning: http://stanford.io/2nRlxxp  
+  - Unsupervised Learning: http://stanford.io/2MmP6FN  
 
 ### Presentations 
 - [Deep Learning - The Past, Present and Future of Artificial Intelligence](https://www.slideshare.net/LuMa921/deep-learning-the-past-present-and-future-of-artificial-intelligence)
@@ -72,6 +76,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 - [Seedbank](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples 
 - [R2D3](http://www.r2d3.us) - A visual introduction to machine learning
+
+## Tips and Tricks
+
+- [Stanford CS 229](http://stanford.io/2MEHwFM)
 
 *If you see a broken link, open an [issue](https://github.com/VidyasagarMSC/Awesome-AI/issues/new).*
 
