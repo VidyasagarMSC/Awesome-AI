@@ -41,6 +41,9 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
   - Unsupervised Learning: http://stanford.io/2MmP6FN  
 - [Machine Learning for dummies cheat sheet](https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/)
 
+### Tutorials
+- [Machine Learning Tutorial for Beginners – Learn Machine Learning](https://data-flair.training/blogs/machine-learning-tutorial/)
+
 ### Presentations 
 - [Deep Learning - The Past, Present and Future of Artificial Intelligence](https://www.slideshare.net/LuMa921/deep-learning-the-past-present-and-future-of-artificial-intelligence)
 
