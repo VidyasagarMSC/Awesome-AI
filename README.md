@@ -1,6 +1,8 @@
 # Awesome-AI
 
-A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence, Machine Learning and Deep Learning.
+A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence, Machine Learning and Deep Learning. 
+
+> Thank the respective authors
 
 ## Beginners - Getting Started
 
@@ -21,6 +23,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 - [Machine Learning for Dummies, IBM Limited edition](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN) - *75 Pages*
 - [Machine Learning Yearning by Andrew Ng - Signup for a free draft copy](http://www.mlyearning.org) - *Approx. 100 pages*
+- [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
 ### Quick guides
 
