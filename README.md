@@ -85,6 +85,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 - [Stanford CS 229](http://stanford.io/2MEHwFM)
 
+## Free books collection
+
+- [AI Sciences](https://aisciences.net/product-category/free-ebooks/)
+
 *If you see a broken link, open an [issue](https://github.com/VidyasagarMSC/Awesome-AI/issues/new).*
 
 #### Fork this repo, add more content and a PR to merge
