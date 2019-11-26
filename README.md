@@ -46,6 +46,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 ### Tutorials
 - [Machine Learning Tutorial for Beginners – Learn Machine Learning](https://data-flair.training/blogs/machine-learning-tutorial/)
+- [Deep Learning Tutorial for Beginners - Kaggle](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 
 ### Presentations 
 - [Deep Learning - The Past, Present and Future of Artificial Intelligence](https://www.slideshare.net/LuMa921/deep-learning-the-past-present-and-future-of-artificial-intelligence)
@@ -90,7 +91,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 ## Free books collection
 
-- [AI Sciences](https://aisciences.net/product-category/free-ebooks/)
+- [AI Sciences](https://aisciences.net/free-ebooks/)
 
 *If you see a broken link, open an [issue](https://github.com/VidyasagarMSC/Awesome-AI/issues/new).*
 
