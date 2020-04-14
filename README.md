@@ -9,7 +9,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 ### :pencil: Articles
 
 - [An introduction to Artificial Intelligence](https://hackernoon.com/understanding-understanding-an-intro-to-artificial-intelligence-be76c5ec4d2e)
-- [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
+- [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/)
 - [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions)
 - [The Journey of a Machine Learning model from Building to Retraining](https://towardsdatascience.com/the-journey-of-a-machine-learning-model-from-building-to-retraining-fe3a37c32307?gi=38d2b73db825)
 - [An executive’s guide to AI by McKinsey&Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
