@@ -13,6 +13,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 - [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions)
 - [The Journey of a Machine Learning model from Building to Retraining](https://towardsdatascience.com/the-journey-of-a-machine-learning-model-from-building-to-retraining-fe3a37c32307?gi=38d2b73db825)
 - [An executive’s guide to AI by McKinsey&Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
+- [A Comprehensive Guide On How to Monitor Your Models in Production](https://neptune.ai/blog/how-to-monitor-your-models-in-production-guide)
 
 ### :page_facing_up:Courses
 - [Introduction to Artificial Intelligence by Microsoft on edx](https://www.edx.org/course/introduction-to-artificial-intelligence-ai)
