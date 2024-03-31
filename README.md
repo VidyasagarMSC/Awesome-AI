@@ -22,7 +22,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 ### :books:Books
 
-- [15 free Machine Learning books](https://www.kdnuggets.com/2022/10/15-free-machine-learning-deep-learning-books.html)
+- [5 books to Master Machine Learning](https://www.kdnuggets.com/5-free-books-to-master-machine-learning)
 - [Machine Learning Yearning by Andrew Ng - Signup for a free draft copy](http://www.mlyearning.org) - *Approx. 100 pages*
 - [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
