@@ -64,11 +64,6 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [Deep Learning, An MIT Press book](http://www.deeplearningbook.org)
 - [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
-## Interesting reads
-
-- [Should We Worry About Artificial Intelligence (AI)?](https://www.codingdojo.com/blog/dark-side-of-artificial-intelligence-ai/)
-- [The future of AI: IS YOUR JOB UNDER THREAT? - *Businessleader*](https://www.businessleader.co.uk/the-future-of-artificial-intelligence-is-your-job-under-threat/44959/)
-
 ## Infographics
 
 - [AI "Technology Readiness" Infographic](infographics/AI-tech-landscape-graphic.png)
