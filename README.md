@@ -22,7 +22,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 ### :books:Books
 
-- [Machine Learning for Dummies, IBM Limited edition](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN) - *75 Pages*
+- [15 free Machine Learning books](https://www.kdnuggets.com/2022/10/15-free-machine-learning-deep-learning-books.html)
 - [Machine Learning Yearning by Andrew Ng - Signup for a free draft copy](http://www.mlyearning.org) - *Approx. 100 pages*
 - [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
@@ -36,10 +36,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [Introduction to Tensorflow](https://dzone.com/refcardz/introduction-to-tensorflow?chapter=1)
 
 ### Cheatsheets
-- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [AI cheatsheets](https://www.codecademy.com/resources/cheatsheets/subject/artificial-intelligence)
 - [The machine learning algorithm cheat sheet - sas.com](cheatsheets/machinelearning/machine-learning-cheat-sheet-sas.png)
 - [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-- Stanford Cs 229:
+- Stanford CS 229:
   - Deep Learning: http://stanford.io/2BsQ91Q  
   - Supervised Learning: http://stanford.io/2nRlxxp  
   - Unsupervised Learning: http://stanford.io/2MmP6FN  
