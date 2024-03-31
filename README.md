@@ -78,7 +78,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 ## Opensource Libraries and Tools
 
-- [Gym](https://gym.openai.com) - Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
+- [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - Gymnasium(formerly Gym) is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
 - [TensorFlow](https://www.tensorflow.org) - An open source machine learning framework for everyone
 - [Explore AI Libraries](https://kandi.openweaver.com/explore/artificial-intelligence) - Discover & find a curated list of AI popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
